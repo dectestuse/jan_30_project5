@@ -35,3 +35,8 @@ invitation send
 
 git pushh
 git pull
+
+
+
+gittt addd 
+gittt pushhhh
